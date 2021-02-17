@@ -1,0 +1,8 @@
+site_name: "demo-17-02"
+site_description: "demo component"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

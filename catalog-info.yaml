@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "demo-17-02"
+  description: "demo component"
+  annotations:
+    github.com/project-slug: leemills83/demo-17-02
+    backstage.io/techdocs-ref: url:https://github.com/leemills83/demo-17-02
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "team-a"
